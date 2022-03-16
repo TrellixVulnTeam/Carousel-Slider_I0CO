@@ -1,0 +1,14 @@
+#slider1 .carousel-item {
+  height: 450px; }
+
+#slider1 .img-1 {
+  background: url("../img/a.jpg") no-repeat center top;
+  background-size: cover; }
+
+#slider1 .img-2 {
+  background: url("../img/b.jpg");
+  background-size: cover; }
+
+#slider1 .img-3 {
+  background: url("../img/c.jpg") no-repeat center top;
+  background-size: cover; }
