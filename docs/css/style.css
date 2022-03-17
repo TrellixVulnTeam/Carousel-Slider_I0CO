@@ -12,3 +12,13 @@
 #slider1 .img-3 {
   background: url("../img/c.jpg") no-repeat center top;
   background-size: cover; }
+
+@media (max-width: 650px) {
+  h2 {
+    font-size: 1rem; }
+  .lead {
+    font-size: .80rem; }
+  .btn {
+    font-size: .70rem; }
+  .d-block {
+    font-size: 60%; } }
